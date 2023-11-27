@@ -1,0 +1,4 @@
+#!/bin/bash
+echo Enter parents name
+read name
+echo "your parent names are $name"

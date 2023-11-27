@@ -1,0 +1,10 @@
+#!/bin/bash
+echo Find empty files in the current directory
+emptyfiles=`find . -type f -size 0`  
+if [ `echo $emptyfiles | wc -l` -gt 0 ] 
+then
+	echo "empty files exits"
+	echo $emptyfiles
+else
+	echo "empty files dont exists"
+fi

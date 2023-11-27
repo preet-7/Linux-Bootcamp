@@ -1,0 +1,16 @@
+total 56
+-rwxrwxr-x 1 preet preet  30 Nov 27 10:48 outputscreen
+-rwxrwxr-x 1 preet preet  62 Nov 27 10:50 runcommands
+-rwxrwxr-x 1 preet preet 117 Nov 27 11:36 definevariable
+-rwxrwxr-x 1 preet preet 220 Nov 27 11:46 inputscript
+-rwxrwxr-x 1 preet preet 129 Nov 27 11:56 ifelse
+-rwxrwxr-x 1 preet preet 119 Nov 27 12:00 ifthennew
+-rwxrwxr-x 1 preet preet  64 Nov 27 12:15 forloop
+-rwxrwxr-x 1 preet preet  67 Nov 27 12:17 forloop1
+-rwxrwxr-x 1 preet preet 212 Nov 27 14:18 dowhile
+-rwxrwxr-x 1 preet preet 309 Nov 27 15:32 case
+-rwxrwxr-x 1 preet preet 108 Nov 27 16:23 pinghost
+-rwxrwxr-x 1 preet preet 154 Nov 27 16:31 pinghostall
+-rw-rw-r-- 1 preet preet  24 Nov 27 16:34 hosts
+-rwxrwxr-x 1 preet preet  33 Nov 27 18:46 listfile
+-rw-rw-r-- 1 preet preet   0 Nov 27 18:46 golisting

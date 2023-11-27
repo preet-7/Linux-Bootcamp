@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd
+touch perms.txt
+chmod a+rwx perms.txt

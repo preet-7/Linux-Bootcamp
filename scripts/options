@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "1. top"
+echo "2. iostat"
+echo "3. free"
+echo "4. /proc/cpuinfo"
+echo "5. dmesg"
+echo
+read option
+
+case $option in 
+	1) top;;
+	2) iostat;;
+	3) free;;
+	4) cat /proc/cpuinfo;;
+	5) dmesg;;
+	*) echo "invalid choice"
+esac 
