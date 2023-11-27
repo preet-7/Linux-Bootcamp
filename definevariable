@@ -1,0 +1,9 @@
+#!/bin/bash
+
+a="Preet"
+b="Pal"
+c="Linux class"
+
+echo "my name is $a"
+echo "my last name is $b"
+echo "my class is $c"

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+a=`hostname`
+echo Hello, My server name is $a
+echo
+echo what is your name?
+read name
+echo
+echo what is your profession?
+read profession
+echo
+echo Hello $name
+echo you profession $profession is awesome
+echo
+

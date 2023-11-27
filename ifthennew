@@ -1,0 +1,10 @@
+#!/bin/bash
+
+clear
+if [ -e /home/preet/test/scripts/ifelsenew ]
+then
+	echo file exist
+else
+	echo file doesnt exist
+fi
+
